@@ -1,0 +1,25 @@
+{
+  "name": "line-diff-count",
+  "main": "./lib/line-diff-count",
+  "version": "0.1.0",
+  "description": "Line diff count",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "line-diff-count:toggle"
+  },
+  "repository": "https://github.com/sadikovi/line-diff-count",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  }
+}

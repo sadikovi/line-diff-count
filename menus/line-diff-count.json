@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "line-diff-count",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "line-diff-count:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
