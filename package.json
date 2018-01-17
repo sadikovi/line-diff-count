@@ -2,7 +2,7 @@
   "name": "line-diff-count",
   "main": "./lib/line-diff-count",
   "version": "0.1.1",
-  "description": "Adds diff count for added, edited and removed lines to status bar since the last commit.",
+  "description": "A status bar diff count for added, edited and removed lines since the last commit.",
   "keywords": [
     "git",
     "diff"
