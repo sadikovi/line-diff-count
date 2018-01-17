@@ -1,10 +1,9 @@
 {
   "name": "line-diff-count",
   "main": "./lib/line-diff-count",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Adds diff count for added, edited and removed lines to status bar since the last commit.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "line-diff-count:toggle"
   },
@@ -13,8 +12,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "consumedServices": {
     "status-bar": {
       "versions": {
