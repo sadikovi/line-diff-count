@@ -3,6 +3,7 @@
   "main": "./lib/line-diff-count",
   "version": "0.1.1",
   "description": "A status bar diff count for added, edited and removed lines since the last commit.",
+  "author": "Ivan Sadikov",
   "keywords": [
     "git",
     "diff"
