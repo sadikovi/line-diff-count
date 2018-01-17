@@ -3,10 +3,10 @@
   "main": "./lib/line-diff-count",
   "version": "0.1.0",
   "description": "Adds diff count for added, edited and removed lines to status bar since the last commit.",
-  "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "line-diff-count:toggle"
-  },
+  "keywords": [
+    "git",
+    "diff"
+  ],
   "repository": "https://github.com/sadikovi/line-diff-count",
   "license": "MIT",
   "engines": {
