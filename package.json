@@ -2,7 +2,7 @@
   "name": "line-diff-count",
   "main": "./lib/line-diff-count",
   "version": "0.1.0",
-  "description": "Line diff count",
+  "description": "Adds diff count for added, edited and removed lines to status bar since the last commit.",
   "keywords": [
   ],
   "activationCommands": {
